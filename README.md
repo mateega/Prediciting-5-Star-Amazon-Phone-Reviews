@@ -6,7 +6,7 @@ University of Pennsylvania
 
 ## Usage
 
-To view this project, download the repo as a ZIP, then open the "final_project.html" file in your browser.
+To view this project, download the repo as a ZIP, then open the "final_project.html" file in your browser. To run the .rmd file, the dataset, Amazon_Unlocked_Mobile.csv, will need to be downloaded from <a href="https://www.kaggle.com/code/rajatagg/star-rating-prediction-part-1/input" target="_blank">Kaggle</a>.
 
 ## Executive Summary
 
