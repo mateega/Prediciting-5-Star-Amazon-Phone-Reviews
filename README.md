@@ -10,7 +10,7 @@ View this project live <a href="https://mateega.com/review-prediction" target="_
 
 This project is completed in R using the following methods: **NLP/text mining, logistic regression, LASSO, PCA, and random forest**.
 
-This project is aimed to predict star ratings of unlocked mobile phones on Amazon.com using machine learning techniques. The project utilized the Star Rating Prediction dataset from Kaggle, containing features like product name, brand, price, review rating, text, and votes received.
+This project is aimed to predict star ratings of unlocked mobile phones on Amazon.com using machine learning techniques. The Star Rating Prediction dataset from Kaggle is utilized which contains features like product name, product brand, product price, review rating, review text, and the number of votes received a view received. 
 
 The exploratory data analysis revealed insights such as phone price range, review votes distribution, average ratings by brand, and the distribution of phone ratings. A two-category response variable was created to classify reviews as 5-star or non-5-star. A document term matrix (dtm) was generated for review text after preprocessing steps.
 
